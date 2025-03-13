@@ -15,11 +15,11 @@ Este projeto foi desenvolvido durante a **Imersão Frontend** da **Alura**. Trat
 ## Como Executar o Projeto
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/spotify-clone.git
+   git clone https://github.com/rik-404/spotify-imersao-alura.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd spotify-clone
+   cd spotify-imersao-alura
    ```
 
 ## Contribuição
